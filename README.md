@@ -1,5 +1,5 @@
 # DiscordPersonalityBot
- made with JS ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript-logo.png)
+ made with JS ![JavaScript Icon](https://raw.githubusercontent.com/exuanbo/file-icons-js/master/icons/javascript.svg)
 
 🦙 Llama3 AI
 
