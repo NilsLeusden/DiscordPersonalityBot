@@ -1,5 +1,6 @@
 # DiscordPersonalityBot
-![JavaScript Logo](https://raw.githubusercontent.com/github/explore/0d5fa9d0be32be417d1631f8cde4b0d1d03d17c1/topics/javascript/javascript.png)
+ made with JS ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript-logo.png)
+
 🦙 Llama3 AI
 
 ### Dependencies 
